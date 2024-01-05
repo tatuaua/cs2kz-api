@@ -2673,7 +2673,7 @@
           "teleports": {
             "type": "integer",
             "format": "uint32",
-            "description": "The amount of teleports used for setting this records.",
+            "description": "The amount of teleports used for setting this record.",
             "minimum": 0
           },
           "time": {
